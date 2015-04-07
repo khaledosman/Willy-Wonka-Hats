@@ -1,0 +1,4 @@
+[submodule "androidsdk"]
+	path = androidsdk
+	url = https://github.com/relayr/android-sdk/
+	branch = feature/ble_additions
