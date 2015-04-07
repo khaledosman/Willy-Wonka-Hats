@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WillyWonkaHats</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_not_supported">bluetooth not supported</string>
+    <string name="sensor_discovery_error">sensor discovery error</string>
+    <string name="color_sensor1">Color sensor 1</string>
+    <string name="color1_error">error retrieving data from color sensor 1</string>
+    <string name="color2_error">error retrieving data from color sensor 2</string>
+    <string name="color3_error">error retrieving data from color sensor 3</string>
+    <string name="sensor_reading_error">Could not read from sensor</string>
+</resources>
