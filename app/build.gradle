@@ -20,6 +20,6 @@ android {
 }
 
 dependencies {
-   compile 'io.relayr:android-sdk:0.0.12'
+   //compile 'io.relayr:android-sdk:0.0.12'
    // compile project(":android-sdk:android-sdk")
 }
